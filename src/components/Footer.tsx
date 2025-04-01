@@ -96,7 +96,7 @@ function Footer({ id }: FooterProps) {
         <div className="flex items-center space-x-3">
           <p className="text-gray-400 text-sm">Get the app</p>
           <a
-            href="https://apps.apple.com/us/app/allerbite/id6738210205"
+            href="https://apps.apple.com/us/app/exoverse/id6743936738"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center bg-black bg-opacity-95 text-white px-3 py-1 rounded-md shadow-lg hover:bg-gray-800 transition"

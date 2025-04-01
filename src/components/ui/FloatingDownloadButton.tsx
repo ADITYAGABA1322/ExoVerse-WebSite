@@ -28,7 +28,7 @@ export default function FloatingDownloadButton() {
 
   return (
     <Link
-      href="https://apps.apple.com/us/app/allerbite/id6738210205"
+      href="https://apps.apple.com/us/app/exoverse/id6743936738"
       target="_blank"
       className={`fixed bottom-6 right-6 bg-black text-white flex items-center gap-2 px-4 py-2 rounded-full shadow-lg hover:bg-gray-800 transition-all ${
         isVisible ? "opacity-100" : "opacity-0"
